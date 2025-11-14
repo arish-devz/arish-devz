@@ -21,21 +21,26 @@ Hi, I’m Wanestial an web developer learning JavaScript and Python, building my
 
 ---
 
-### <h1> 📖 What I'm currently learning </h1>
+### 📖 What I'm currently learning 
 
 - Python: writing cleaner scripts, building small tools, and understanding core concepts
 - NodeJS: learning backend basics, APIs, and server-side logic
 
 ---
 
-### <h1> 📊 My Stats </h1>
+### 📊 My Stats 
 
-<p1 centre="left">![WanestialOfficial's Stats](https://github-readme-stats.vercel.app/api?username=WanestialOfficial&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false)</p1>
-<p1 centre="right"> ![WanestialOfficial's Streak](https://github-readme-streak-stats.herokuapp.com/?user=WanestialOfficial&theme=vision-friendly-dark&hide_border=true) </p1>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=WanestialOfficial&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false" height="150" />
+  &nbsp;&nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=WanestialOfficial&theme=vision-friendly-dark&hide_border=true" height="150" />
+</p>
+
+
 
 ---
 
-### <h1> 🤝 Support </h1>
+###  🤝 Support 
 
 <p align="center">
   🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub Flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are always appreciated!
