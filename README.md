@@ -26,6 +26,12 @@ Hi, I’m Wanestial an web developer learning JavaScript and Python, building my
 
 ---
 
+### <h1> 📊 My Stats </h1>
+
+![WanestialOfficial's Stats](https://github-readme-stats.vercel.app/api?username=WanestialOfficial&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false)
+
+---
+
 ### <h1> 🤝 Support </h1>
 
 <p align="center">🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are most welcome!</p>
