@@ -31,6 +31,7 @@ Hi, I’m Wanestial an web developer learning JavaScript and Python, building my
 ### <h1> 📊 My Stats </h1>
 
 ![WanestialOfficial's Stats](https://github-readme-stats.vercel.app/api?username=WanestialOfficial&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false)
+<p1 centre="right"> ![WanestialOfficial's Streak](https://github-readme-streak-stats.herokuapp.com/?user=WanestialOfficial&theme=vision-friendly-dark&hide_border=true) </p1>
 
 ---
 
