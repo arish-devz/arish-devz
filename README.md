@@ -31,19 +31,11 @@ Hi, I’m Wanestial an web developer learning JavaScript and Python, building my
 
 ---
 
-###  🤝 Support 
+### ⭐ Support 
 
-<p align="center">
-  🎀 Contributions (<a href="https://guides.github.com/introduction/flow" title="GitHub Flow">GitHub Flow</a>), 🔥 issues, and 🥮 feature requests are always appreciated!
-</p>
+<p> If you enjoy my projects, consider giving them a star it truly helps! Your support encourages me to keep improving, building new ideas, and sharing better tools with the community. Even a single star lets me know that the work I’m doing is valuable, and it motivates me to keep pushing forward with more meaningful projects.</p>
 
-<p align="center">
-  If you find my projects helpful, feel free to ⭐ them and share with others!
-</p>
 
-<p align="center">
-  Made with ❤️ in India
-</p>
 
 
 
