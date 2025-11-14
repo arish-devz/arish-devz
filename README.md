@@ -21,22 +21,13 @@ Hi, I’m Wanestial an web developer learning JavaScript and Python, building my
 
 ---
 
-### 📖 What I'm currently learning 
-
-- Python: writing cleaner scripts, building small tools, and understanding core concepts
-- NodeJS: learning backend basics, APIs, and server-side logic
-
----
-
-### 📊 My Stats 
+### 📊 Github Stats 
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=WanestialOfficial&theme=vision-friendly-dark&show_icons=true&hide_border=true&count_private=false" height="150" />
   &nbsp;&nbsp;
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=WanestialOfficial&theme=vision-friendly-dark&hide_border=true" height="150" />
 </p>
-
-
 
 ---
 
